@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema3-Estaciones", "Tema3-Estaciones\Tema3-Estaciones.csproj", "{DC0F8D7E-F88C-49FA-B532-FB1CBF40FCB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC0F8D7E-F88C-49FA-B532-FB1CBF40FCB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0F8D7E-F88C-49FA-B532-FB1CBF40FCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0F8D7E-F88C-49FA-B532-FB1CBF40FCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0F8D7E-F88C-49FA-B532-FB1CBF40FCB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B0CB33E-8888-4067-ABED-296ECECB45C5}
+	EndGlobalSection
+EndGlobal
