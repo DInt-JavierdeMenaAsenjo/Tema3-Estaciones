@@ -10,6 +10,9 @@
     <DockPanel Background="#FF8BCDCD">
         <TextBlock DockPanel.Dock="Top" TextAlignment="Center" FontSize="35" FontWeight="Bold">
             <TextBlock.Foreground>
+                <TextBlock.Effect>
+                        <DropShadowEffect></DropShadowEffect>
+                </TextBlock.Effect>
                 <RadialGradientBrush>
                     <GradientStop Color="#FF4DA045"/>
                     <GradientStop Color="#FF456EA6" Offset="0.636"/>
